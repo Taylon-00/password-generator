@@ -23,11 +23,8 @@ Este projeto é um **gerador de senhas seguras**, desenvolvido com foco em prati
 
 ## 📷 Demonstração
 
-![Gerador de Senhas](./screenshot.png)
+![Gerador de Senhas](./GeradordeSenhas.png)
 
-> Você pode substituir essa imagem por [esta aqui](https://chat.openai.com/c/file/000000003bec61f880907d88d58fa6f4) ou fazer o upload da imagem gerada no projeto e renomear para `screenshot.png`.
-
----
 
 ## 🧠 Sobre Mim
 
