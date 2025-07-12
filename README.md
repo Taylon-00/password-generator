@@ -19,11 +19,9 @@ Este projeto é um **gerador de senhas seguras**, desenvolvido com foco em prati
 - **CSS3** – Estilização e layout responsivo
 - **JavaScript (Vanilla JS)** – Lógica de geração e interação
 
----
-
 ## 📷 Demonstração
 
-![Gerador de Senhas](./GeradordeSenhas.png)
+![Gerador de Senhas](https://raw.githubusercontent.com/Taylon-00/password-generator/refs/heads/main/Gerador%20de%20Senhas.png)
 
 
 ## 🧠 Sobre Mim
